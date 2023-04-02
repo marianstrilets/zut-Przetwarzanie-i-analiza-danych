@@ -1,1 +1,2 @@
-# zut-data-analysis
+## 1.Podstawy zastosowania NUMPY
+
