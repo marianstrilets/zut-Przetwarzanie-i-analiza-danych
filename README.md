@@ -1,6 +1,5 @@
 ##### Laboratorium 1
-
-### 1.Podstawy zastosowania NUMPY
+#### 1.Podstawy zastosowania NUMPY
 
 Moduł NUMPY jest zestawem narzędzi umożliwiającym zaawansowane obliczenia matematyczne. Rozszerza on możliwości PYTHON o nowe typy danych, operacje na nich oraz funkcje przyśpieszające obliczenia.
 
