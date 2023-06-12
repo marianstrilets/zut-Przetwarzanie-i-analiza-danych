@@ -7,6 +7,7 @@ from scipy.stats import gaussian_kde
 data = {'x': [1, 2, 3, 4, 5], 'y': ['a', 'b', 'a', 'b', 'b']}
 df = pd.DataFrame(data=data)
 
+
 # ------------------------------------ 1 ----------------------------------------------------------
 # 1. Zgrupować tabele po zmiennej symbolicznej Y, a następnie wyznaczyć średnią wartość 
 # atrybutu numerycznego X w grupach wyznaczonych przez Y.
