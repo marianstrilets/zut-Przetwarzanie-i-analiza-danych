@@ -8,6 +8,11 @@ Moduł ”Pandas” jest zestawem narzędzi umożliwiającym sprawne manipulowan
 
 ##### Laboratorium 3-4: Dyskretyzacja, kwantyzacja, binaryzacja
 
+Celem laboratorium jest poznanie zagadnień związanych z konwersją analogowo-
+cyfrową, oraz problemów które może ona dostarczyć. Dodatkowo poruszony
+jest temat binaryzacji, jako „uproszczonej kwantyzacji” do dwóch wartości
+[0, 1] na rzeczywistym przykładzie segmentacji obiektu z tła na obrazie.
+
 ##### Laboratorium 4
 ##### Laboratorium 6
 ##### Laboratorium 7
