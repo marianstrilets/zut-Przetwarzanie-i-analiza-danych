@@ -1,4 +1,4 @@
-### Laboratorium 1
+##### Laboratorium 1
 
 ### 1.Podstawy zastosowania NUMPY
 
