@@ -9,9 +9,10 @@ from sklearn.decomposition import PCA
 # ---------------------------------------- (a) -----------------------------------------------------------------------
 #   (a) wygenerować w sposób losowy zbiór 200 obiektów dwuwymiarowych za pomocą funkcji z numpy dot i rand lub randn
 # --------------------------------------------------------------------------------------------------------------------
+
 print('\n--------------- 1 -------------- \n\ta:\n')
 # ustawienie seeda dla powtarzalności wyników
-np.random.seed(30)
+np.random.seed(50)
 
 # Generujemy zbiór 200 obiektów dwuwymiarowych za pomocą funkcji dot i rand
 rng = np.random.RandomState(1)
@@ -71,6 +72,7 @@ def wiPCA(X, k=1):
     return X_pca, W, eig_vals       # Zwracanie wyników
 # --------------------------------------------------------------------------------------------------------------------
 # Wywołanie funkcji PCA original shape: (200, 2)
+#pca, W, eig_vals = wiPCA(objects, k=2)
 pca = PCA(n_components=2)
 pca.fit(objects)
 plt.scatter(objects[:, 0], objects[:, 1], alpha=0.3)
