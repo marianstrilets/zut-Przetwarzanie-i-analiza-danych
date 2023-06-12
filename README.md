@@ -10,6 +10,13 @@
 ├── lab-5: Selekcja zmiennych za pomocą przyrostu informacji
 ├── lab-6: 
 ├── lab-7: Analiza głównych składowych PCA
+├── lab-8: 
+├── lab-9: --
+├── lab-10: 
+├── lab-11:--
+├── lab-12: 
+├── lab-13: Fltracja przebiegów czasowych(audio), zastosowanie okien kroczących, FFT
+├── lab-14: --
 ```
 
 ##### Laboratorium 1: Podstawy zastosowania NUMPY
@@ -40,7 +47,10 @@ pca = PCA(n components=2)
 X r = pca.fit(X).transform(X)
 ```
 
-##### Laboratorium 8
-##### Laboratorium 9
-##### Laboratorium 10
-##### Laboratorium 11
+##### Laboratorium 8-9:
+##### Laboratorium 10-11:
+##### Laboratorium 12-13: Fltracja przebiegów czasowych(audio), zastosowanie okien kroczących, FFT 
+
+Celem laboratoriów jest zapoznanie się z możliwościami analizy i ekstrakcji informacji z przebiegów czasowych, na przykładzie sygnału audio. Wszystkie ćwiczenia powinny być wykonywane na własnym nagraniu (patrz punkt 1.1), a w razie problemów z wydzieleniem odpowiednich fragmentów posiłkować się będzie można dodatkowymi nagraniami zawierającymi wybrane głoski nagrane indywidualnie.
+
+##### Laboratorium 14:
