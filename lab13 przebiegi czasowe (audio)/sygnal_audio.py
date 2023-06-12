@@ -25,6 +25,7 @@ sd.play(s, fs)    # rozpoczęcie odtwarzania;
 print('\n---------------->>>>> audio.wav <<<<<----------------\n')
 status = sd.wait()# odczekanie z wykonaniem kolejnych instrukcji do momentu, aż dźwięk skończy się odtwarzać.
 
+
 # Czas trwania
 calc_duration = len(s) / fs
 
