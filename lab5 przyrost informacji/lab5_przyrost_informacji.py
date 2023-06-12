@@ -93,12 +93,10 @@ print('\n\t--------- Zadanie 1 ----------------------')
 x = pd.array(np.random.randint(1, 20, size=100))
 [xi, ni] = freq(x)                              #
 print("\n", xi, "\n", ni)
-
 print('\n\t--------- Zadanie 2 ----------------------')
 x = pd.array(np.random.randint(1, 7, size=100))
 y = pd.array(np.random.randint(1, 7, size=100))  #
 [xi, yi, ni] = freq2(x, y)                       #
 print("\n", xi,"\n", yi, "\n", ni)
-
 print('\n\t--------- Zadanie 4 ----------------------')
 print(zadanie4)
