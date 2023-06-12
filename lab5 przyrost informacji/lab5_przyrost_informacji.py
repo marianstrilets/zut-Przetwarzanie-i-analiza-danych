@@ -1,11 +1,9 @@
-
 import numpy as np
 import pandas as pd
 # ------------------------------------------ 1 --------------------------------------------------------------------
 # 1 . Używając standardowego słownika języka Python napisać funkcję [xi,ni]=freq(x, prob=True),
 #   która dla zadanej kolumny danych x dyskretnych zwróci: unikalne wartości xi, ich estymowane
 #   prawdopodobieństwa pi lub częstości ni.
-
 
 def freq(x, prob=True):
     # Funkcja zwraca unikalne wartości kolumny x oraz ich estymowane prawdopodobieństwa pi lub częstości ni.
