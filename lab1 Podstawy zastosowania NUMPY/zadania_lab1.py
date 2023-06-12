@@ -8,14 +8,12 @@ print("=============================== 1 ==============================")
 z1_matrix = np.random.randint(0, 101, size=(10, 5))
 z1_trace = np.trace(z1_matrix)
 z1_diag = np.diag(z1_matrix)
-
 print("Macierz losowych liczb całkowitych:")
 print(z1_matrix)
 print("Suma głównej przekątnej macierzy: ", z1_trace)
 print("Wartości na głównej przekątnej macierzy: ", z1_diag)
-
 print("=============================== 2 ==============================")
-# 2). Utwórz dwie tablice wymiaru 5 × 5 z losowo wybranych liczb dziesiętnych 
+# 2). Utwórz dwie tablice wymiaru 5 × 5 z losowo wybranych liczb dziesiętnych, 
 # z rozkładu normalnego i przemnóż je przez siebie.
 z2_table1 = np.random.normal(size=(5, 5))
 z2_table2 = np.random.normal(size=(5, 5))
