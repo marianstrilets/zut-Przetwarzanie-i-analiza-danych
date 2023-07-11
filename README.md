@@ -59,5 +59,3 @@ regresji. Przystosowanie algorytmu do korzystania z kD-drzew.
 ##### Laboratorium 12-13: Fltracja przebiegów czasowych(audio), zastosowanie okien kroczących, FFT 
 
 Celem laboratoriów jest zapoznanie się z możliwościami analizy i ekstrakcji informacji z przebiegów czasowych, na przykładzie sygnału audio. Wszystkie ćwiczenia powinny być wykonywane na własnym nagraniu (patrz punkt 1.1), a w razie problemów z wydzieleniem odpowiednich fragmentów posiłkować się będzie można dodatkowymi nagraniami zawierającymi wybrane głoski nagrane indywidualnie.
-
-##### Laboratorium 14:
