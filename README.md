@@ -11,12 +11,11 @@
 ├── lab-6: 
 ├── lab-7: Analiza głównych składowych PCA
 ├── lab-8: 
-├── lab-9: --
+├── lab-9: Algorytm K-środków
 ├── lab-10: 
-├── lab-11:--
+├── lab-11: Algorytm K-NN
 ├── lab-12: 
 ├── lab-13: Fltracja przebiegów czasowych(audio), zastosowanie okien kroczących, FFT
-├── lab-14: --
 ```
 
 ##### Laboratorium 1: Podstawy zastosowania NUMPY
